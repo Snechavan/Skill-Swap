@@ -345,4 +345,4 @@ function calculatePointsFromRating(rating: number): number {
     case 1: return 1;
     default: return 0;
   }
- 
+ }
